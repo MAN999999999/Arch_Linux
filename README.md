@@ -13,3 +13,8 @@
 ```rubs
 bash <(curl -s -L https://github.com/MAN999999999/Install_Arch-script/blob/master/gnome_install.sh)
 ```
+
+
+# 撸码中
+
+- [→ 本人永久的Github地址](https://github.com/wo2ni)
